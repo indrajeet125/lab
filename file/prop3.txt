@@ -1,0 +1,11 @@
+Alpha century A 1.56
+Alpha century B 0.45
+Alpha century B 6e-05
+Wolf 359 2e-06
+Barhard's stor  0.0006
+BD+36 degree c2147 0.006
+luyten 726-8A 6e-05
+luyten 726-8A 4e-05
+Serious A 23.6
+Serious A 0.003
+ROS 154 5e-05
